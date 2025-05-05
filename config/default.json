@@ -1,6 +1,15 @@
 {
   "FlixPatrolTop10": [
     {
+      "platform": "disney",
+      "location": "united-states",
+      "fallback": false,
+      "privacy": "private",
+      "limit": 10,
+      "name": "Disney Plus Top 10 Overall",
+      "type": "overall"
+    },
+    {
       "platform": "netflix",
       "location": "world",
       "fallback": false,
